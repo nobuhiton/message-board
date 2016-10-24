@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,3 +27,7 @@ Things you may want to cover:
 =======
 # message-board2
 >>>>>>> origin/master
+=======
+# message-board
+message-board ( ruby)
+>>>>>>> af981145f74d5869a4d3929a304630f0bc220e53
